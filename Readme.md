@@ -1,6 +1,8 @@
 Huron Docs
 ===========
 
+Published at: http://hurondocs.readthedocs.io
+
 ## Requirements
 Assuming you have Python already
 
