@@ -1,0 +1,11 @@
+.rst-versions {
+    display: none;
+}
+
+.wy-breadcrumbs-aside {
+    display: none !important;
+}
+
+.rst-content img {
+    margin-bottom: 20px;
+}
